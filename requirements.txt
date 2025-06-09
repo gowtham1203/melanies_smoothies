@@ -1,4 +1,4 @@
 # requiement.txt
 snowflake-snowpark-python
 streamlit
-requets
+requests
